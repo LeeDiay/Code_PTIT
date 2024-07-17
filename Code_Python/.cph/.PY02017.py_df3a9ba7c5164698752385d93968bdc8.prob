@@ -1,0 +1,1 @@
+{"name":"Local: PY02017","url":"e:\\WorkSpace\\Python\\PY02017.py","tests":[{"id":1716048512446,"input":"2\n7\n1 2 3 2 3 1 3\n5\n1 1 3 3 2","output":"3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\WorkSpace\\Python\\PY02017.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: demo","url":"e:\\WorkSpace\\Python\\demo.py","tests":[{"id":1716046211205,"input":"3\n12345678\n20000\n22334455667788","output":"16 384\n2 0\n35 40320"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\WorkSpace\\Python\\demo.py","group":"local","local":true}
